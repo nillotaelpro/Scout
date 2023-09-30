@@ -1,0 +1,31 @@
+header {
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  text-decoration: none;
+  display: flex;
+  gap: 7.5px;
+  height: 100%;
+  padding: 1px;
+  color: black;
+}
+
+.logo.img {
+  align-items: center;
+  vertical-align: center;
+}
+
+.logo-text {
+  font-size: 25px;
+  display: grid;
+  align-items: center;
+}
+
+.links-Encabezado {
+  font-size: 25px;
+  color: black;
+}
